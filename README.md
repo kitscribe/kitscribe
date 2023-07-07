@@ -7,10 +7,10 @@ For now my primary language is Python, but I also worked a bit with:
 - JavaScript
 
 I'm interested in designing and developing:
-- Web services
-- REST APIs
-- Chat bots
+- REST/RPC APIs
 - Integrations
+- Chat bots
+- CLI tools
 
 I'm not interested in:
 - Creating windowed applications
