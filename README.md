@@ -13,6 +13,7 @@ I'm interested in designing and developing:
 - CLI tools
 
 I'm not interested in:
+- Frontend
 - Creating windowed applications
 - Machine Learning
 - Data analysis
