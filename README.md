@@ -15,7 +15,6 @@ I'm interested in designing and developing:
 I'm not interested in:
 - Frontend
 - Creating windowed applications
-- Machine Learning
 - Data analysis
 
 If you would like to talk, you can contact me via Telegram: [@kitscribe](https://t.me/kitscribe)
