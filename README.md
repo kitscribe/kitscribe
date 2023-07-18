@@ -8,6 +8,7 @@ For now my primary language is Python, but I also worked a bit with:
 
 I'm interested in designing and developing:
 - REST/RPC APIs
+- Client-server apps
 - Integrations
 - Chat bots
 - CLI tools
