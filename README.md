@@ -4,7 +4,6 @@ I am backend developer and I'm currently learning and practicing Golang in order
 For now my primary language is Python, but I also worked a bit with:
 - C, C#
 - Golang
-- JavaScript
 
 I'm interested in designing and developing:
 - REST/RPC APIs
