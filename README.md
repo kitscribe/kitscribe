@@ -1,11 +1,6 @@
 Hello, my name is Nikita K.
 
-I am backend developer and I'm currently learning and practicing Golang in order to switch to this language.<br>
-For now my primary language is Python, but I also worked a bit with:
-- C, C#
-- Golang
-
-I'm interested in designing and developing:
+I am backend developer and I'm interested in designing and developing:
 - REST/RPC APIs
 - Client-server apps
 - Integrations
